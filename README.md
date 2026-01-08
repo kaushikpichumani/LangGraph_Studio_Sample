@@ -23,7 +23,8 @@ It serves as a **minimal but complete reference** for:
 ## 📂 Project Structure
 
 ```text
-.
+
+3_Debugging
 ├── openai_agent.py      # ReAct agent definition
 ├── langgraph.json       # LangGraph Studio configuration
 ├── requirements.txt
